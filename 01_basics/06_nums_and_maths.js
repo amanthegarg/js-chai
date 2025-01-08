@@ -30,11 +30,12 @@ const hundreds = 1000000
 // console.log((Math.random()*10) + 1); // this is how it will give values > 1 
 // console.log(Math.floor((Math.random()*10) + 1)); //this will give integer value from 1 to 10
 
+//important note 
 
 const min = 10;
 const max = 20; 
 
-console.log(Math.floor((Math.random()* (max-min+1))+ min));
+console.log(Math.floor((Math.random()* (max-min+1))+ min)); 
 
 
 
