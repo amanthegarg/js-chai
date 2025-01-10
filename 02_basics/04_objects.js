@@ -79,6 +79,7 @@ course = {
 
 // }
 
+// JSON => Javascript Object Notation
 
 // a json Array of objects
 // [
